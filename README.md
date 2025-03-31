@@ -1,2 +1,2 @@
-# atividade-em-sala-Tipos-de-CSS
-Aluno: Matheus Chiosini Scalabrin
+# tipos-de-css
+Exercício sobre os tipos de CSS: inline, embutido e externo.
